@@ -3,17 +3,56 @@
     <head>
         <title>Grid Font Test Page</title>
         <link rel="stylesheet" type="text/css" href="../dist/gridfont.min.css">
+        <style>
+            body, #container{
+                position: absolute;
+                top:0px;
+                left:0px;
+                width:100%;
+                height:100%;
+                margin:0px;
+                padding:0px;
+            }
+
+            #container{
+                box-sizing:border-box;
+                padding:20px;
+            }
+        </style>
     </head>
 
     <body>
         
-        <script src = "../dist/gridfont.min.js"></script>
+        <div id = "container">
+            
+            <div id = "text">
 
+            </div>
+            
+        </div>
+
+        <script src = "//code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script src = "../dist/gridfont.min.js"></script>
+    
         <script>
 
-            var grid = new GridFont(null, null, null);
+            var text = "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour.when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
 
+            var grid = new GridFont($('#text'), text, {
+                'font':'../dist/fonts/gregs_handwriting/data.json',
+                'scale':0.2,
+                'cycle':'sequential',
+                'textAlign':'center',
+                'hJitterMin':0,
+                'hJitterMax':0,
+                'vJitterMin':0,
+                'vJitterMax':0,
+                'rJitterMin':0,
+                'rJitterMax':0
+            });
+            
         </script>
+
     </body>
     
 </html>

@@ -1,2 +1,2 @@
-.gridFont{position:absolute}
+.gridFont .characterHolder,.gridFont .word{vertical-align:top;display:inline-block}.gridFont .characterHolder{position:relative}.gridFont .character{position:absolute;width:100%;transform-origin:bottom center}.gridFont .innerCharacter{background-repeat:no-repeat;position:absolute;left:50%}.gridFont .innerCharacter.up{bottom:0;background-position:bottom center;transform-origin:bottom center}.gridFont .innerCharacter.down{top:0;background-position:top center;transform-origin:top center}.gridFont .innerCharacter.center{top:50%;background-position:center center;transform-origin:center center}.gridFont .letter img{display:inline-block;vertical-align:bottom}
 /*# sourceMappingURL=gridfont.min.css.map */

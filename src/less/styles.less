@@ -1,4 +1,51 @@
 
 .gridFont{
-    position: absolute;
+
+    .word{
+        display: inline-block;  
+        vertical-align: top;
+    }
+
+    .characterHolder{
+        display: inline-block;
+        vertical-align: top;
+        position: relative;
+    }
+
+    .character{
+        position: absolute;
+        width:100%;
+        transform-origin:bottom center;
+    }
+
+    .innerCharacter{
+        background-repeat: no-repeat;
+        position: absolute;
+        left:50%;
+
+        &.up{
+            bottom:0px;
+            background-position:bottom center;
+            transform-origin:bottom center;
+        }
+
+        &.down{
+            top:0px;
+            background-position:top center;
+            transform-origin:top center;
+        }
+
+        &.center{
+            top:50%;
+            background-position:center center;
+            transform-origin:center center;
+        }
+    }
+
+   
+
+    .letter img{
+        display: inline-block;
+        vertical-align: bottom; 
+    }   
 }
