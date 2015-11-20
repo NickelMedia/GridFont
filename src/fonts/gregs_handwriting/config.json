@@ -6,8 +6,8 @@
     "padding_top":40,
     "padding_bottom":10,
     "line_height":170,
-    "line_spacing":20,
-    "character_width":30,
+    "line_spacing":100,
+    "character_width":70,
     "font_name":"gregs_handwriting",
     "pages":[
         {
@@ -19,7 +19,7 @@
             "start_col":1,
             "chars":[97, 98, 99, 100, 101, 102, 103, 104,  105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116],
             "ignore":{
-                "103":[0],
+                "103":[0,1],
                 "106":[7],
                 "109":[12],
                 "110":[0,1,2,3,5,8,10,11,12],

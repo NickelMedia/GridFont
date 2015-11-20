@@ -1,0 +1,1316 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"media",
+				"[pub] ● mediaToLoad (property) Nickel.Question.mediaToLoad: number"
+			],
+			[
+				"copy",
+				"copy"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"w",
+				"w"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"autoPl",
+				"[priv] ● autoPlayInterval (property) Nickel.Question.autoPlayInterval: any"
+			],
+			[
+				"spriteLeft",
+				"spriteLeft"
+			],
+			[
+				"spriteRight",
+				"spriteRight"
+			],
+			[
+				"auti",
+				"[priv] ● autoPlayDelay (property) Nickel.Question.autoPlayDelay: number"
+			],
+			[
+				"autoPlay",
+				"[priv] ● autoPlaySprites (property) Nickel.Question.autoPlaySprites: boolean"
+			],
+			[
+				"ease",
+				" ● easeOutQuad (property) \"easeOutQuad\": string"
+			],
+			[
+				"seconda",
+				"secondaryHolder"
+			],
+			[
+				"twitter",
+				"twitterClicked"
+			],
+			[
+				"SET",
+				"SET_SKROLLR"
+			],
+			[
+				"loader",
+				"loader"
+			],
+			[
+				"sprite",
+				"[pub] ● spriteRight (property) Nickel.Question.spriteRight: SpriteCharacter"
+			],
+			[
+				"section",
+				"[pub] ● sectionHolder (property) Nickel.ClimateView.sectionHolder: JQuery"
+			],
+			[
+				"action",
+				"[priv] ○ actionSpriteOver (method) Nickel.SpriteCharacter.actionSpriteOver(): void"
+			],
+			[
+				"ac",
+				"[priv] ● playingAction (property) Nickel.SpriteCharacter.playingAction: boolean"
+			],
+			[
+				"active",
+				" ● activeLang (property) Main.activeLang: string"
+			],
+			[
+				"kill",
+				"[priv] ● killTimeout (property) Nickel.Question.killTimeout: any"
+			],
+			[
+				"STAR",
+				"STARS_BACKGROUND"
+			],
+			[
+				"low",
+				"low"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"icon_",
+				"icon_gallery_play_mobile@2x.png	w:79 h:91"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"UPDATE",
+				" ● UPDATE_BREAK_POINT (property) Main.UPDATE_BREAK_POINT: string"
+			],
+			[
+				"diam",
+				"diamond_bg@2x.png	w:116 h:116"
+			],
+			[
+				"mid",
+				"mid"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"resource",
+				"resourcesBucket"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"btn",
+				"btnMakeYourOwn"
+			],
+			[
+				"video",
+				"videoRetriever"
+			],
+			[
+				"story",
+				"storyObject"
+			],
+			[
+				"id",
+				"act_id"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"update",
+				"updateChildTags"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"playHead",
+				"playHeadWidth"
+			],
+			[
+				"CutP",
+				"CutPickerVO"
+			],
+			[
+				"set",
+				"setInFrame"
+			],
+			[
+				"vide",
+				"videoFile"
+			],
+			[
+				"tie",
+				"timelineWidth"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"timeline",
+				"timelineWidth"
+			],
+			[
+				"cure",
+				"currentFrame"
+			],
+			[
+				"v",
+				"videoFile"
+			],
+			[
+				"btnPrev",
+				"btnPrevPage"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"title",
+				"titleWidth"
+			],
+			[
+				"bg",
+				"background-size"
+			],
+			[
+				"transform",
+				"transform-origin"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"render",
+				"renderInterval"
+			],
+			[
+				"phan",
+				"phantomButton"
+			],
+			[
+				"save",
+				"saveData"
+			],
+			[
+				"str",
+				"stripos"
+			],
+			[
+				"bacn",
+				"background"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"Data",
+				"data"
+			],
+			[
+				"changeA",
+				"changeActListItem"
+			],
+			[
+				"change",
+				"changeActListItem"
+			],
+			[
+				"actOrder",
+				"actOrderListItem"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"show",
+				"showChild"
+			],
+			[
+				"high",
+				"highlightText"
+			],
+			[
+				"add",
+				"addChild"
+			],
+			[
+				"decision",
+				"decision"
+			],
+			[
+				"get",
+				"getDecisionOptions"
+			],
+			[
+				"inven",
+				"inventory_items"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"A",
+				"ActVO"
+			],
+			[
+				"exp",
+				"experience"
+			],
+			[
+				"ini",
+				"initialized"
+			],
+			[
+				"display",
+				"displayText"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"doc",
+				"docClicked"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"photos",
+				"photos"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"subMe",
+				"subMenuOut"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"MapView",
+				"MapView"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"img",
+				"background-image"
+			],
+			[
+				"remove",
+				"removeFromArray"
+			],
+			[
+				"play",
+				"playing"
+			],
+			[
+				"tips",
+				"tipsFromJoeSpecific"
+			],
+			[
+				"curren",
+				"currentBG"
+			],
+			[
+				"landing",
+				"landingHeight"
+			],
+			[
+				"time",
+				"timeoutSet"
+			],
+			[
+				"land",
+				"landingPage"
+			],
+			[
+				"else",
+				"else"
+			],
+			[
+				"timeo",
+				"timeoutRunning"
+			],
+			[
+				"rollOver",
+				"rolloverTimeline"
+			],
+			[
+				"rollover",
+				"rolloverTimeline"
+			],
+			[
+				"videoPla",
+				"videoPlaying"
+			],
+			[
+				"cu",
+				"currentType"
+			],
+			[
+				"ghost",
+				"ghostTimeline"
+			],
+			[
+				"skroll",
+				"skrollrEvent"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"submit",
+				"submitClicked"
+			],
+			[
+				"container",
+				"container"
+			],
+			[
+				"anim",
+				"animatingButton"
+			],
+			[
+				"real",
+				"realHeight"
+			],
+			[
+				"grid",
+				"gridHeight"
+			],
+			[
+				"background",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 5220,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/less/styles.less",
+			"settings":
+			{
+				"buffer_size": 37,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dist/gridfont.min.js",
+			"settings":
+			{
+				"buffer_size": 168,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dist/gridfont.min.js.map",
+			"settings":
+			{
+				"buffer_size": 586,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/index.html",
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/ts/GridFont.ts",
+			"settings":
+			{
+				"buffer_size": 240,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 520,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/webbergreg/Documents/Projects/GridFont",
+		"/Users/webbergreg/Documents/Projects/GridFont/dist",
+		"/Users/webbergreg/Documents/Projects/GridFont/dist/fonts",
+		"/Users/webbergreg/Documents/Projects/GridFont/node_modules/.bin",
+		"/Users/webbergreg/Documents/Projects/GridFont/src",
+		"/Users/webbergreg/Documents/Projects/GridFont/test"
+	],
+	"file_history":
+	[
+		"/Users/webbergreg/Documents/Projects/GridFont/.gitignore",
+		"/Users/webbergreg/Documents/Projects/GridFont/src/fonts/gregs_handwriting/config.json",
+		"/Users/webbergreg/Documents/Projects/GridFont/dist/fonts/gregs_handwriting/data.json",
+		"/Users/webbergreg/Documents/Projects/GridFont/test/index.html",
+		"/Users/webbergreg/Downloads/wedtemp.html",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/less/impact_view.less",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/php/get_media_data.php",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/VideoPlayer.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/Footer.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/Header.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/questions/Question.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/questions/QuestionTwo.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/MobileMenu.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/less/gallery_view.less",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/.htaccess",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/data/tl.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/data/zh.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/data/fr.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/data/pt.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/data/en-gb.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/data/hi.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/data/es.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/less/footer.less",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/data/en-us.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/data/config.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/PetitionOverlay.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/php/classes/environment/Mobile_Detect.php",
+		"/Users/webbergreg/Desktop/tempaltes.txt",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/less/petition_view.less",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/questions/QuestionSeven.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/Main.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/gulpfile.js",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/ClimateView.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/less/header.less",
+		"/Users/webbergreg/Desktop/text/index.php",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/less/petition_overlay.less",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/questions/SpriteCharacter.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/less/styles.less",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/index.php",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/intro/SecondaryText.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/questions/QuestionSix.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/less/climate_view.less",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/questions/QuestionFive.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/questions/QuestionThree.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/scaffolding/Component.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/questions/QuestionFour.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/questions/QuestionOne.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/intro/IntroSecondary.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/questions/TextSprite.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/intro/Intro.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/intro/IntroText.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/questions/ParallaxSprite.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/intro/IntroSprite.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/js/vendor/pixi.js",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/intro/IntroPrompt.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/intro/MidText.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/petition/PetitionView.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/impact/ImpactView.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/questions/Countdown.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/scaffolding/Utils.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/ProgressBar.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/def/jquery.d.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/impact/Leader.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/questions/Intro.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/css/animate.css",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/questions/IntroSecondary.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/IntroText.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/SpriteCharacter.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/IntroSprite.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/ParallaxSprite.ts",
+		"/Users/webbergreg/Desktop/utils.ts",
+		"/Users/webbergreg/Desktop/intro.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/QuestionText.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/scaffolding/View.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/php/config/stage.php",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/gallery/GalleryView.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/gallery/GalleryVideo.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/scaffolding/EventBus.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/scaffolding/VirtualScroll.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/TextSprite.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/ScrollPrompt.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/ResponseText.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/Popup.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/scaffolding/Share.ts",
+		"/Users/webbergreg/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/php/get_media_detail.php",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/php/config/global.php",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/php/config.php",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/php/config/dev.php",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/php/config/local.php",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/privacy.html",
+		"/Users/webbergreg/Documents/Projects/ImposiumJS/example/index.html",
+		"/Users/webbergreg/Desktop/4.txt",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/php/config/192.php",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/data/en_uk.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/data/pr.json",
+		"/Users/webbergreg/Desktop/main.js",
+		"/Users/webbergreg/Desktop/LIB.JS",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/scaffolding/Ajax.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/data/en.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/js/vendor/jquery.parallax.min.js",
+		"/Users/webbergreg/Desktop/imageresize.txt",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/Section.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/less/mixins.less",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/data/stats.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/stats.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/Question.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/img/sprites/hackey_small.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/Climate.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/petition/Petition.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/img/sprites/hackey.json",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/Footer.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/Header.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/less/shared.less",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/css/styles.css",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/def/custom.d.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/def/pixi.d.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/js/vendor/bluebird.js",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/def/underscore.d.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/views/climate/Title.ts",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/js/vendor/underscore.js",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/js/vendor/bluebird.min.js",
+		"/Users/webbergreg/Documents/Projects/ClimateReality/src/js/main.js",
+		"/Users/webbergreg/Documents/Projects/Imposium_v2/www/src/moderation/ModerationView.ts",
+		"/Users/webbergreg/Desktop/sponsors.html",
+		"/Users/webbergreg/Documents/Projects/JuicyFruit/site/src/less/styles.less",
+		"/Users/webbergreg/Documents/Projects/JuicyFruit/site/src/src/views/landing/Landing.ts",
+		"/Users/webbergreg/Documents/Projects/JuicyFruit/site/src/src/views/landing/VideoPlayer.ts"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/webbergreg/Documents/Projects/ClimateReality/src/src/data",
+			"/Users/webbergreg/Documents/Projects/ClimateReality/src/src",
+			"/Users/webbergreg/Documents/Projects/Pinnacle v1/reel/src",
+			"/Users/webbergreg/Documents/Projects/ClimateReality/src/src",
+			"/Users/webbergreg/Documents/Projects/ClimateReality/src/",
+			"/Users/webbergreg/Documents/Projects/ClimateReality/src/src",
+			"/Users/webbergreg/Documents/Projects/ClimateReality/src",
+			"/Users/webbergreg/Documents/Projects/JuicyFruit/site/src/src",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/juicyfruit",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/cms/src",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/src",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/cms/",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/cms/src/",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/cms/src/php_lib",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/cms/src/",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/cms/src/story",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/cms/src",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/cms/",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/cms/cms",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/cms/src",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/cms/",
+			"/Users/webbergreg/Documents/Projects/Imposium/",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/cms/",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/cms/src",
+			"/Users/webbergreg/Documents/Projects/Imposium/site/cms/",
+			"/Users/webbergreg/Documents/Projects/Lab/FFmpeg_Editor/site/cms/",
+			"/Users/webbergreg/Documents/Projects/Lab/FFmpeg_Editor/site/cms/src",
+			"/Users/webbergreg/Documents/Projects/Lab/FFmpeg_Editor/site/cms/",
+			"/Users/webbergreg/Documents/Projects/Lab/FFmpeg_Editor/site/cms/src",
+			"/Users/webbergreg/Documents/Projects/Lab/FFmpeg_Editor/site/cms",
+			"/Users/webbergreg/Documents/Projects/RCT/mobile/snippets",
+			"/Users/webbergreg/Documents/Projects/RCT/mobile/nsippets",
+			"/Users/webbergreg/Documents/Projects/RCT/mobile/src",
+			"/Users/webbergreg/Documents/Projects/RCT/mobile/snippets",
+			"/Users/webbergreg/Documents/Projects/RCT/mobile/src",
+			"/Users/webbergreg/Documents/Projects/RCT/mobile/",
+			"/Users/webbergreg/Documents/Sublime Text Projects/RCT/mobile/",
+			"/Users/webbergreg/Documents/Sublime Text Projects/RCT/mobile/src",
+			"/Users/webbergreg/Documents/Sublime Text Projects/RCT/public/",
+			"/Users/webbergreg/Documents/Sublime Text Projects/RCT/mobile/",
+			"/Users/webbergreg/Documents/Sublime Text Projects/RCT/mobile/src",
+			"/Users/webbergreg/Documents/Sublime Text Projects/RCT/mobile/",
+			"/Users/webbergreg/Documents/Sublime Text Projects/RCT/mobile",
+			"/Users/webbergreg/Documents/Sublime Text Projects/RCT/public",
+			"/Users/webbergreg/Documents/Sublime Text Projects/Subaru/site/less",
+			"/Users/webbergreg/Documents/Sublime Text Projects/RCT/public/less",
+			"/Users/webbergreg/Documents/Sublime Text Projects/RCT/public/src",
+			"/Users/webbergreg/Documents/Sublime Text Projects/RCT/public/",
+			"/Users/webbergreg/Documents/Sublime Text Projects/RCT/public/lib",
+			"/Users/webbergreg/Documents/Sublime Text Projects/Yankees v1/site/lib",
+			"/Users/webbergreg/Documents/Sublime Text Projects/Yankees v1/site/src",
+			"/Users/webbergreg/Documents/Sublime Text Projects/Yankees v1/site/",
+			"/Users/webbergreg/Documents/Sublime Text Projects/Yankees v1/site/src",
+			"/Users/webbergreg/Documents/Sublime Text Projects/Yankees v1/site/",
+			"/Users/webbergreg/Documents/Sublime Text Projects/Yankees v1/site/cssORIG",
+			"/Users/webbergreg/Documents/Sublime Text Projects/Yankees v1/site/src",
+			"/Users/webbergreg/Documents/Sublime Text Projects/Yankees v1/site/cssORIG",
+			"/Users/webbergreg/Documents/Sublime Text Projects/Yankees v1/site/src",
+			"/Users/webbergreg/Documents/Sublime Text Projects/Yankees v1/site/views",
+			"/Users/webbergreg/Documents/Sublime Text Projects/Yankees v1/site/src",
+			"/Users",
+			"/Users/jeff/Sites/pinnacle/microsite/",
+			"/Users/jeff/Sites/pinnacle/microsite/scss",
+			"/Users/jeff/Sites/pinnacle/microsite/src",
+			"/Users/jeff/Sites/pinnacle/Admin/src/views",
+			"/Users/jeff/Sites/pinnacle/Admin/templates",
+			"/Users/jeff/Sites/pinnacle/Admin/src/views",
+			"/Users/jeff/Sites/pinnacle/Admin/src",
+			"/Users/jeff/Sites/pinnacle/Admin/php",
+			"/Users/jeff/Sites/pinnacle/Website/scss",
+			"/Users/jeff/Sites/pinnacle/Website/js/ts-source"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uglify",
+			"jsonmini",
+			"taskName",
+			"lastTask",
+			"fontDist",
+			"fontToGenerate",
+			"filename",
+			"displayVide",
+			"52",
+			"\"52\"",
+			"input",
+			"52",
+			"email_trigger_KEYS",
+			"Receive_Email",
+			"linkKey",
+			"Receive_Email",
+			"WorldsEasiestDecision",
+			"value = ",
+			"twitterCLicked",
+			".stat",
+			"enableScrolling",
+			"gallery_three",
+			"gallery",
+			"glalledocument.write('<iframe src=\"\"https://5195633.fls.doubleclick.net/activityi;src=5195633;type=petit0;cat=petit0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?\"\" width=\"\"1\"\" height=\"\"1\"\" frameborder=\"\"0\"\" style=\"\"display:none\"\"></iframe>');",
+			"showMe(){",
+			"film_two",
+			"templates",
+			"groups_key",
+			"gallery_twelve",
+			"question5",
+			"gallery_twelve",
+			"currentSection",
+			"justin trudeau",
+			"typescript",
+			"gallery_twelve",
+			"zrFYuXue_vY",
+			"gallery_twelve",
+			"china",
+			"videoPlayer",
+			"VideoPlayer.LOAD_VIDEO",
+			"film_one",
+			"-KCgQpRUS0o",
+			"film_one",
+			"film",
+			"ga(",
+			"ga",
+			"social",
+			"ga(",
+			"ga('send",
+			"typescript",
+			"twitterClicked",
+			"History[",
+			"gulp.mp3",
+			"deviceType",
+			"checkRotateOverlay",
+			"rotateOverlay",
+			"35",
+			"600ms",
+			"300ms",
+			"strokeLetters",
+			"dly",
+			"500ms",
+			"fill.",
+			"fill",
+			"hideUndecided",
+			"this.popups[0",
+			"autoPlayDelay",
+			"autoPlaySprites",
+			"regardless",
+			"galleryVideo",
+			"&",
+			"banner{",
+			"&",
+			"diamond",
+			"anim loaded",
+			"banner",
+			"btnFIlm",
+			"BTNFILM",
+			"btnFIlm",
+			"btnSign",
+			"gallery_one",
+			"gallery",
+			"film",
+			"film_one",
+			"header",
+			"videoPlayer",
+			"setCopy",
+			".caption{",
+			"on",
+			"sound",
+			"buzz",
+			"fitToContainer",
+			"<label>",
+			"delegate",
+			"\n			",
+			"delegate",
+			"sections",
+			"BaseTexture.fromImage",
+			"BaseTexture",
+			"PIXI.BaseTexture",
+			"PIXI.BaseTexture.fromImage",
+			"image.crossOrigin = '';",
+			"  image.crossOrigin = '';",
+			"fromImage",
+			"anonymous",
+			"Main.xform",
+			"sectionTransition",
+			"\"transform",
+			"'transform",
+			"transform",
+			"menu",
+			"onPlayerReady",
+			"checkTimeInt",
+			"vidOver",
+			"checkTime",
+			"videoReady",
+			"autoplay",
+			"loadVideo",
+			"loadVideobyId",
+			"init",
+			"playVideo",
+			"autoplay",
+			"onPlayerStateChange",
+			"onPlayerReady",
+			"playVideo",
+			"showMe",
+			"this.videoLink",
+			"loadVideo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".PrivaThreePro",
+			".PrivaOnePro",
+			".PrivaTwoPro",
+			"boolean",
+			"\"",
+			"PINNACLE.Templates",
+			"enp0s3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								763,
+								763
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/less/styles.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dist/gridfont.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dist/gridfont.min.js.map",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "test/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/ts/GridFont.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ArcticTypescript/theme/Typescript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								272,
+								272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 155.0
+	},
+	"output.find_results":
+	{
+		"height": 277.0
+	},
+	"pinned_build_system": "",
+	"project": "grid_font.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jeff/Sites/pinnacle/Website/sublime-text-files/microsite.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 397.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
