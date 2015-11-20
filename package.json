@@ -1,7 +1,13 @@
 {
-  "name": "Fontify",
+  "name": "GridFont",
   "version": "1.0.0",
-  "description": "",
+  "author":"Greg Webber",
+  "license":"MIT",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/NickelMedia/GridFont"
+  },
+  "description": "Utility for generating grid fonts, and JS + CSS lib for implementing them on front end sites.",
   "author": "Greg Webber",
   "devDependencies": {
     "del": "~0.1.3",
