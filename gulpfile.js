@@ -12,7 +12,8 @@ var concat = require('gulp-concat');
 var uglifyJs = require('gulp-uglify');
 var uglifyCss = require('gulp-minify-css');
 var less = require('gulp-less');
-
+var autoprefixer = require('gulp-autoprefixer');
+var lastTask;
 var fontToGenerate = process.env.font;
 var jsDist = './dist';
 var cssDist = './dist';
@@ -76,7 +77,11 @@ if(fontToGenerate){
 
             var r = r - page.start_row;
             var charCode = page.chars[r];
-            var ignoredChars = page.ignore[charCode.toString()];
+            var ignoredChars;
+
+            if(page.ignore){
+                ignoredChars = page.ignore[charCode.toString()];
+            }
 
             for(var c = page.start_col; c<page.cols; c++){
 
@@ -153,6 +158,7 @@ gulp.task('compile-less', function(){
     return gulp.src(styles)
         .pipe(sourceMaps.init())
         .pipe(less({paths: [lessSrc]}))
+        .pipe(autoprefixer())
         .pipe(uglifyCss({keepSpecialComments: 0}))
         .pipe(rename(cssName))
         .pipe(sourceMaps.write('.'))

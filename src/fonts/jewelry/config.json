@@ -1,0 +1,32 @@
+{
+    "page_width":1250,
+    "page_height":18984,
+    "padding_left":0,
+    "padding_right":0,
+    "padding_top":0,
+    "padding_bottom":0,
+    "line_height":500,
+    "line_spacing":0,
+    "character_width":200,
+    "font_name":"jewelry",
+    "pages":[
+        {
+            "id":"page_one",
+            "src":"page_1.png",
+            "rows":28,
+            "cols":1,
+            "start_row":0,
+            "start_col":0,
+            "chars":[97, 101, 105, 109, 113, 117, 121, 98, 102, 106, 110, 114, 118, 122, 99, 103, 107, 111, 115, 119, 39, 100, 104, 108, 112, 116, 120, 34]
+        },
+        {
+            "id":"page_two",
+            "src":"page_2.png",
+            "rows":28,
+            "cols":1,
+            "start_row":0,
+            "start_col":0,
+            "chars":[65, 69, 73, 77, 81, 85, 89, 66, 70, 74, 78, 82, 86, 90, 67, 71, 75, 79, 83, 87, 46, 68, 72, 76, 80, 84, 88, 44]
+        }
+    ]
+}
